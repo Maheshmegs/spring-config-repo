@@ -1,1 +1,4 @@
 
+spring:
+  application:
+    message: "Hello from Config Server!"
